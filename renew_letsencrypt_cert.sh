@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# A bash script for letsencrypt certification renewal. This script was tested on CentOS 7 with nginx and php-fpm installed.
+
 ########################################
 #VARIABLES
 ########################################
